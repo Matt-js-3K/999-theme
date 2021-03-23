@@ -1,5 +1,5 @@
 @font-face {
- font-family:BlenderProBold;
+ font-family:testfont;
  src:url(testfont.woff2) format("woff2"),
  url(testfont.woff) format("woff");
  font-weight:100;
